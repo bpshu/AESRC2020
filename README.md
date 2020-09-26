@@ -2,14 +2,11 @@
 
 track2-scripts
 
-#####
-# 主页：https://www.datatang.com/INTERSPEECH2020
+##### 背景
 
-# baseline:
+主页: https://www.datatang.com/INTERSPEECH2020
 
-Data preparation scripts and training pipeline for the Interspeech 2020 Accented English Speech Recognition Challenge (AESRC).
-
-https://github.com/R1ckShi/AESRC2020
+baseline:  https://github.com/R1ckShi/AESRC2020
 
 ####  Track2
 口音英语语音识别
