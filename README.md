@@ -18,3 +18,11 @@ baseline:  https://github.com/R1ckShi/AESRC2020
 run.sh: 训练环境
 
 run_test.sh: 测试环境
+
+#### res
+
+| exp/CER(%)/accent| RU   | KR   | US   | PT   | JPN  | UK   | CHN  | IND  | AVE  |
+| -------- | -- |---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| this  | 2.65 | 5.24 | 6.78 | 3.91 | 4.50 | 5.38 | 9.07 | 6.04 | 5.46 |
+
+
