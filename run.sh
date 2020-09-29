@@ -50,5 +50,5 @@ if [ $stage -le 13 ]; then
 fi
 
 if [ $stage -le 13 ]; then
-	bash local/chain_run_tdnn.finetune.sh --stage 15
+	bash local/run_cnn_tdnn_finetune.finetune.sh --stage 15
 fi
