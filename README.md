@@ -15,14 +15,18 @@ baseline:  https://github.com/R1ckShi/AESRC2020
 
 ####  方案简介
 
+base
+----
 librispeech960: 默认脚本（
 mono, tri, LDA+MLLT, SAT, LDA+MLLT+SAT, FMLLR，这里数据量级由小往大；
 local/run_cleanup_segmentation.sh：这个清洗挺好
 参考baseline，这里选用librispeech/s5/local/chain/run_cnn_tdnn.sh, 网络结构没有变化
 ）
 
-在librispeech960的基础上，做tuning，脚本见local/run_cnn_tdnn_finetune.sh
+tuning
 ---
+在librispeech960的基础上，做tuning，脚本见local/run_cnn_tdnn_finetune.sh
+
 
 #### scripts
 
